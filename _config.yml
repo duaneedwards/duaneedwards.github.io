@@ -6,14 +6,14 @@ pygments:	true
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
+title:		Duane Edwards
 tagline:	'blog'
 description:	'My personal blog.'
-url:		http://camporez.com
+url:		http://blog.duaneedwards.net
 
 author:
-  name:		'Ian Camporez Brunelli'
-  url:		https://google.com/+IanCamporezBrunelli
+  name:		'Duane Edwards'
+  url:		https://plus.google.com/114207918397082076550
 
 paginate:	5
 
@@ -23,19 +23,19 @@ cover:		/assets/images/cover.jpg
 
 social:
   - icon:	twitter
-    url:	https://twitter.com/iancamporez
+    url:	https://twitter.com/duane_edwards
     desc:	Follow me on twitter
 
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/duaneedwards
     desc:	Fork me on github
 
   - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
+    url:	https://plus.google.com/114207918397082076550
     desc:	Add me on google+
 
   - icon:	feed
-    url:	http://camporez.com/atom.xml
+    url:	http://blog.duaneedwards.net/atom.xml
     desc:	Subscribe to my feed
     
 menu:
@@ -46,7 +46,7 @@ menu:
     url:	/about
     
 copyright:
-  author:	Camporez
-  url:		http://camporez.com
+  author:	Duane Edwards
+  url:		http://blog.duaneedwards.net
   type_title:	Some rights reserved
   type_url:	http://creativecommons.org/licenses/by-nc/2.5
