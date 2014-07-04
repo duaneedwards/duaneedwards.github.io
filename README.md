@@ -1,4 +1,4 @@
-duaneedwards.github.io
+blog.duaneedwards.net
 ======================
 
-duaneedwards.net
+This is my blog.
