@@ -3,10 +3,9 @@ layout: post
 published: false
 title: "Monkey Business #1"
 quote: The project idea
-image: /media/2014-02-26-hello-cosette/cover.jpg
+image: "/media/2014-02-26-hello-cosette/cover.jpg"
 video: false
 ---
-
 
 ## The Project Idea
 
@@ -16,9 +15,9 @@ So, for the purpose of the project I'm going to build a simple egg timer for sof
 
 Currently, I repurpose an interval timer app to serve this purpose.  This should be a simple enough application for an introduction to building Android applications with F# so I think that it's a suitable candidate for entry into the Xamarin F# contest.
 
-The way you basically achieve soft boiled eggs (taken from ???)
+The way you basically achieve soft boiled eggs (based off of Julia Child's method)
 
-1. Put your eggs into a pot, fill the pot with water up until ~2cm from the top.
+1. Put your eggs into a pot, fill the pot with water up until ~5cm from the top egg.
 2. Put the pot on the stove and bring to a boil.
 3. Once the water starts to boil, start a timer for three minutes.
 4. After three minutes have passed, remove the pot from the stove and leave to cool for 12 minutes (start another timer)
