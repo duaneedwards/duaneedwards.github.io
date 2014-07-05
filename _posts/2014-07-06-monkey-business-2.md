@@ -16,3 +16,12 @@ typeof<SomeClass>
 
 Referencing other classes in F# is a bit interesting ...
 For now I'll just bung them all in the same class.
+
+Assigning variables:
+C#:
+progress.Value = 0.5f
+
+F#:
+progress.Value <- 0.5f
+
+[Helpful Link](http://stackoverflow.com/questions/5534368/assignment-operator-in-f)
