@@ -24,3 +24,6 @@ The way you basically achieve soft boiled eggs (based off of Julia Child's metho
 5. Once the 12 minutes is up, rinse the eggs with cold water, peeling the eggs as you go.
 
 The application that I'm going to build should basically walk the user through the above process, the value add is in managing the two timer intervals (boiling time and resting time), prompting the user on each step of the process as you walk through it.
+
+I figure that I'll be needing about 5 screens to run the user through this process, as mocked out as follows:
+
