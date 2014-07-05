@@ -7,6 +7,7 @@ image: "/media/2014-02-26-hello-cosette/cover.jpg"
 video: false
 ---
 
+![MonkeyBusiness0cover.jpg](/media/MonkeyBusiness0cover.jpg)
 ## The Project Idea
 
 A common theme for what people do for new projects is to "Build something to scratch your own itch".
