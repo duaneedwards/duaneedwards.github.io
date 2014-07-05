@@ -32,6 +32,7 @@ I figure that I'll be needing about 5 screens to run the user through this proce
 ![2014-07-05 15.19.34_small.jpg](/media/2014-07-05 15.19.34_small.jpg)
 
 ![2014-07-05 15.19.42_small.jpg](/media/2014-07-05 15.19.42_small.jpg)
-![2014-07-05 15.19.48_small.jpg](/media/2014-07-05 15.19.48_small.jpg)
-![2014-07-05 15.19.53_small.jpg](/media/2014-07-05 15.19.53_small.jpg)
 
+![2014-07-05 15.19.48_small.jpg](/media/2014-07-05 15.19.48_small.jpg)
+
+![2014-07-05 15.19.53_small.jpg](/media/2014-07-05 15.19.53_small.jpg)
