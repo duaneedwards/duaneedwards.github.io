@@ -27,3 +27,4 @@ The application that I'm going to build should basically walk the user through t
 
 I figure that I'll be needing about 5 screens to run the user through this process, as mocked out as follows:
 
+![2014-07-05 15.19.30_small.jpg](/media/2014-07-05 15.19.30_small.jpg)
