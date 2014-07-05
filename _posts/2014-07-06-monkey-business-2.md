@@ -25,3 +25,5 @@ F#:
 progress.Value <- 0.5f
 
 [Helpful Link](http://stackoverflow.com/questions/5534368/assignment-operator-in-f)
+
+Separate Activities timer's elapsed events being invoked Across activity types?!
