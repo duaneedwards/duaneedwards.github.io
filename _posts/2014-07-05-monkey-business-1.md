@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Monkey Business #1"
 quote: The project idea
 image: "/media/MonkeyBusiness1cover.jpg"
