@@ -1,7 +1,12 @@
 ---
-layout: blog
+layout: post
 published: false
+title: "Monkey Business #1"
+quote: The project idea
+image: /media/2014-02-26-hello-cosette/cover.jpg
+video: false
 ---
+
 
 ## The Project Idea
 
