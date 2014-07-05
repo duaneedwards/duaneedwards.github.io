@@ -1,9 +1,12 @@
 ---
-layout: blog
+layout: post
 published: false
+title: "Monkey Business #2"
+quote: Xamarin Android and F# Gotchas
+image: "/media/MonkeyBusiness2cover.jpg"
+video: false
 ---
-
-## Xamarin F# Gotchas
+## Xamarin Android and F# Gotchas
 
 C#:
 typeof(SomeClass)
