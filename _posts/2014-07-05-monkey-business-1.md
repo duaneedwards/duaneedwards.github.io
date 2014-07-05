@@ -11,11 +11,11 @@ video: false
 
 A common theme for what people do for new projects is to "Build something to scratch your own itch".
 
-So, for the purpose of the project I'm going to build a simple egg timer for soft boiling eggs.
+So, for the purpose of the project I'm going to build a simple egg timer for hard boiling eggs.
 
 Currently, I repurpose an interval timer app to serve this purpose.  This should be a simple enough application for an introduction to building Android applications with F# so I think that it's a suitable candidate for entry into the Xamarin F# contest.
 
-The way you basically achieve soft boiled eggs (based off of Julia Child's method)
+The way you basically achieve hard boiled eggs (based off of Julia Child's method)
 
 1. Put your eggs into a pot, fill the pot with water up until ~5cm from the top egg.
 2. Put the pot on the stove and bring to a boil.
