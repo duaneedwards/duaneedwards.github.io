@@ -8,5 +8,5 @@ By night I'm F# curious.
 
 Things I like
 - [Paleo Nick is my jam](http://www.paleonick.com)
-- [Crossfit keeps me sane](www.crossfit.com)
-- [Mobility WOD](www.mobilitywod.com)
+- [Crossfit keeps me sane](http://www.crossfit.com)
+- [Mobility WOD](http://www.mobilitywod.com)
