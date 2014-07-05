@@ -3,7 +3,7 @@ layout: post
 published: false
 title: "Monkey Business #1"
 quote: The project idea
-image: "/media/MonkeyBusiness0cover.jpg"
+image: "/media/MonkeyBusiness1cover.jpg"
 video: false
 ---
 

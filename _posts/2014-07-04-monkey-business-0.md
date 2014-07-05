@@ -2,7 +2,7 @@
 layout: post
 title: "Monkey Business #0"
 quote: "Xamarin announces build your first F# mobile app contest"
-image: "/media/2014-02-26-hello-cosette/cover.jpg"
+image: "/media/MonkeyBusiness0cover.jpg"
 video: false
 published: true
 ---
