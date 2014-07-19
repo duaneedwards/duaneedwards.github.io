@@ -16,7 +16,11 @@ I am actually a little bit familiar with the Android layout system, having produ
 
 The problems arose with things like the RadialProgress extension, in that I didn't want a percentage to be the indicator in the middle of the circle.  This was solved easily enough by disabling that progress on the widget itself and overlaying my own text view with a MM:SS countdown as I'd wanted.
 
+![Transparency_Issue_fixed.PNG](/media/Transparency_Issue_fixed.PNG)
+
 Towards the end of the project I thought that I'd simply add some background images to make each Activity's view a little more interesting to look at, and this was for the most part easy enough.  What was difficult was the Radial Progress widget is inherently transparent, and was very hard to read once you put a image background below it.  After a while, the solution presented itself, to simply draw a solid black circle behind the widget itself so that it would return to its normal, easily readable appearance.
+
+![Transparency_Issue.PNG](/media/Transparency_Issue.PNG)
 
 It was things like these that became the real time sinks in the project.  Whilst there were certainly times where I was struggling to translate my knowledge of C# into something that could be used within F#, but this was rarely a blocking issue for too long.  F# itself is quite easy to pickup for people with a C# project, I found.
 
