@@ -30,4 +30,4 @@ All in all, this was a fun little project to sink some time into, and I've alrea
 
 Feel free to checkout the source for the project on Github:
 
-[HardBoiled GitHub](https://github.com/duaneedwards/hardboiled)
+[HardBoiled GitHub Repository](https://github.com/duaneedwards/hardboiled)
