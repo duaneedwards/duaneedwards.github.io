@@ -27,3 +27,7 @@ The Xamarin Android system itself wasn't hard to come up to speed with either.  
 It's interesting to think of the ways in which the newly released Android Watches can come into play with these sorts of applications.  Having a notification on your wrist when the eggs are boiled or ready to peel would be useful when cooking up a number of things at once in the kitchen.
 
 All in all, this was a fun little project to sink some time into, and I've already got a couple of ideas for future projects that I could undertake with the Xamarin toolkit.
+
+Feel free to checkout the source for the project on Github:
+
+[HardBoiled GitHub](https://github.com/duaneedwards/hardboiled)
