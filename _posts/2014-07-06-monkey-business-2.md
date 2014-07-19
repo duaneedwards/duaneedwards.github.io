@@ -18,27 +18,28 @@ Not only that, but it seems that you can't reference code that hasn't been built
 
 However once I figured out what the problem was, it was simple enough to extract out the various activities into their own code files and have the solution compiling as I wanted it to.
 
+One thing that caught me out on multiple occasions was the difference in the usage of the assignment operator in F#.
 
+```
+progress.Value = 0.5f // C# assignment
+```
 
-A quick list of the C# > F# language mappings that I found to be useful through this project:
+```
+progress.Value <- 0.5f // F# assignment
+```
 
-C#:
-typeof(SomeClass)
+I stumbled upon this link which broke down the differences quite well and is a recommended read if you are new to F#:
 
-F#:
-typeof<SomeClass>
+[Assignment operator in F#](http://stackoverflow.com/questions/5534368/assignment-operator-in-f)
 
+Other than that the differences I've come across are merely syntactical, i.e things like this.
 
-Assigning variables:
-C#:
-progress.Value = 0.5f
+```
+typeof(SomeClass) // C#
+typeof<SomeClass> // F#
 
-F#:
-progress.Value <- 0.5f
+Action something -> { doStuff() } // C#
+fun _ -> doStuff(); // F#
+```
 
-[Helpful Link](http://stackoverflow.com/questions/5534368/assignment-operator-in-f)
-
-Separate Activities timer's elapsed events being invoked Across activity types?!
-
-Actions in F#
-fun _ -> doStuff();
+Despite not knowing the language, I've been making reasonable progress in a short time.  Not to mention in a new development environment on a new platform to me :-)
