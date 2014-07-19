@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Monkey Business #3"
 quote: Xamarin and F# Project Debriefing
 image: "/media/MonkeyBusiness3cover.jpg"
