@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: "Monkey Business #2"
 quote: Xamarin Android and F# Gotchas
 image: "/media/MonkeyBusiness2cover.jpg"
