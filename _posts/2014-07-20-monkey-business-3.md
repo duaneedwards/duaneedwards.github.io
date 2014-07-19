@@ -24,3 +24,6 @@ And when you run into trouble there is quite an abundance of resources on the we
 
 The Xamarin Android system itself wasn't hard to come up to speed with either.  Whilst all the documentation and examples I came across looking for the various solutions to the problems I was running into was in C#, it was simple enough to translate into the F# equivalent and be up and running in a couple of minutes.
 
+It's interesting to think of the ways in which the newly released Android Watches can come into play with these sorts of applications.  Having a notification on your wrist when the eggs are boiled or ready to peel would be useful when cooking up a number of things at once in the kitchen.
+
+All in all, this was a fun little project to sink some time into, and I've already got a couple of ideas for future projects that I could undertake with the Xamarin toolkit.
